@@ -2,7 +2,7 @@
 
 The python file I used to create my domesticated animal map.
 
-All of the attributions and results are available here: [https://brandonsvoid.com/clustering-anthro-data](https://brandonsvoid.com/clustering-anthro-data)
+All of the attributions and results are available here: <https://brandonsvoid.com/clustering-anthro-data>
 
 This file was created in Google Colaboratory. I've also tested it in a local Python environment, but not in a Jupyter notebook environment. However, I see no reason why it wouldn't work in any environment where you have the prerequisite packages and can run Python.
 
@@ -24,7 +24,7 @@ Pandas (dataset wrangler)
 
 > [Pandas](https://pandas.pydata.org)
 >
-> The pandas development team. *pandas-dev/pandas: Pandas*. Latest, Zenodo, Oct. 2021. 10.5281/zenodo.3509134. [https://doi.org/10.5281/zenodo.3509134](https://doi.org/10.5281/zenodo.3509134).
+> The pandas development team. *pandas-dev/pandas: Pandas*. Latest, Zenodo, Oct. 2021. 10.5281/zenodo.3509134. <https://doi.org/10.5281/zenodo.3509134>.
 >
 > [Data structures for statistical computing in python](https://conference.scipy.org/proceedings/scipy2010/pdfs/mckinney.pdf), McKinney, Proceedings of the 9th Python in Science Conference, Volume 445, 2010.
 
